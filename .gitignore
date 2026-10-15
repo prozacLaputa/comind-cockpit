@@ -1,0 +1,15 @@
+# Builds and local state
+.DS_Store
+.build/
+build/
+dist/
+.swiftpm/
+__pycache__/
+*.pyc
+.local/
+.env*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+node_modules/
